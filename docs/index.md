@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# Bienvenue sur OR Editions
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+OR Editions édite des contenus originaux sous forme de PDF.
 
-## Commands
+## Publications
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+* OR01 : [Anatole Swadock, Trucs de Bouse](pages/OR01.md).
+* OR02 : [Anatole Swadock, Petits poèmes géologiques](pages/OR02.md).
+* OR03 : [Emile Lyre, Le voyage philosophique](pages/OR03.md).
+* OR04 : A paraître, Emile Lyre, Anthologie, volume 1.
+* OR05 : [Al Zeituni, Quatrains](pages/OR05.md).
+* OR06 : A paraître, Al Zeituni, Pensées mourides, volume 1.
+* OR07 : [Emile Lyre, Journal de miniatures](pages/OR07.md)
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

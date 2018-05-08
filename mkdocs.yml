@@ -1,1 +1,18 @@
-site_name: My Docs
+site_name: OR Editions
+site_description: PDF originaux libres de droits
+site_author: Olivier Rey
+copyright: Copyright Olivier Rey 2007-2018 - Site sous licence GNU FDL V3
+google_analytics: ['UA-110156293-1', 'orey.github.io']
+theme: readthedocs
+site_dir: site
+pages:
+- 'Home': 'index.md'
+- 'Publications':
+    - 'Anatole Swadock, Trucs de bouse': 'pages/OR01.md'
+    - 'Anatole Swadock, Petits poèmes géologiques': 'pages/OR02.md'
+    - 'Emile Lyre, Le voyage philosophique': 'pages/OR03.md'
+    - 'Al Zeituni, Quatrains': 'pages/OR05.md'
+    - 'Emile Lyre, Journal de miniatures': 'pages/OR07.md'
+- 'A propos':
+    - 'Les auteurs': 'about/about.md'
+    - 'License': 'about/LICENSE.md'
