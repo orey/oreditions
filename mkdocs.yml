@@ -14,5 +14,5 @@ pages:
     - 'Al Zeituni, Quatrains': 'pages/OR05.md'
     - 'Emile Lyre, Journal de miniatures': 'pages/OR07.md'
 - 'A propos':
-    - 'Les auteurs': 'about/about.md'
+    - 'A propos': 'about/about.md'
     - 'License': 'about/LICENSE.md'
