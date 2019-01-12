@@ -1,7 +1,7 @@
 site_name: OR Editions
 site_description: PDF originaux libres de droits
 site_author: Olivier Rey
-copyright: Copyright Olivier Rey 2007-2018 - Site sous licence GNU FDL V3
+copyright: Copyright Olivier Rey 2007-2019 - Site sous licence GNU FDL V3
 google_analytics: ['UA-110156293-1', 'orey.github.io']
 theme: readthedocs
 site_dir: site
