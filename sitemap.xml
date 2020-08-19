@@ -1,62 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    
     <url>
-     <loc>None/</loc>
-     <lastmod>2019-01-12</lastmod>
+     <loc>None</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
-        
     <url>
-     <loc>None/pages/OR01/</loc>
-     <lastmod>2019-01-12</lastmod>
+     <loc>None</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>None/pages/OR02/</loc>
-     <lastmod>2019-01-12</lastmod>
+     <loc>None</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>None/pages/OR03/</loc>
-     <lastmod>2019-01-12</lastmod>
+     <loc>None</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>None/pages/OR05/</loc>
-     <lastmod>2019-01-12</lastmod>
+     <loc>None</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>None/pages/OR07/</loc>
-     <lastmod>2019-01-12</lastmod>
+     <loc>None</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
     <url>
-     <loc>None/about/about/</loc>
-     <lastmod>2019-01-12</lastmod>
+     <loc>None</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>None/about/LICENSE/</loc>
-     <lastmod>2019-01-12</lastmod>
+     <loc>None</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
+    <url>
+     <loc>None</loc>
+     <lastmod>2020-08-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>None</loc>
+     <lastmod>2020-08-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>None</loc>
+     <lastmod>2020-08-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>None</loc>
+     <lastmod>2020-08-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>None</loc>
+     <lastmod>2020-08-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>None</loc>
+     <lastmod>2020-08-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>None</loc>
+     <lastmod>2020-08-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>None</loc>
+     <lastmod>2020-08-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>None</loc>
+     <lastmod>2020-08-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>None</loc>
+     <lastmod>2020-08-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>None</loc>
+     <lastmod>2020-08-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
 </urlset>
