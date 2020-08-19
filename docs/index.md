@@ -12,3 +12,24 @@ OR Editions édite des contenus originaux sous forme de PDF.
 * OR06 : A paraître, Al Zeituni, Pensées mourides, volume 1.
 * OR07 : [Emile Lyre, Journal de miniatures](pages/OR07.md)
 
+## Textes en français
+
+* [Plaine](textes/plaine.md)
+
+## English Texts
+
+* [Remembering My Friend](texts/20190821.md)
+* [Empty Shelf](texts/20190720.md)
+* [Coming Back From A Long Travel](texts/20190608.md)
+* [Did They Forget?](texts/20171125.md)
+* [How Could I?](texts/20170827.md)
+* [What Remains Of Wise Men?](texts/20161220.md)
+* [Teaching Equilibrium](texts/20161203.md)
+* [Ode To The Whirling Player](texts/20161126.md)
+* [The Imbalance Fixer](texts/20161116.md)
+* [As It Is Supposed To Be](texts/20160810.md)
+
+
+
+
+
