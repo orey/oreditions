@@ -1,6 +1,8 @@
-# Bienvenue sur OR Editions
+# Bienvenue sur OR Editions - Welcome to OR Editions
 
-OR Editions édite des contenus originaux sous forme de PDF.
+**Français** : OR Editions édite des contenus originaux de divers auteurs sous forme de PDF, ainsi que divers textes en français et en anglais.
+
+**English** : OR Editions publishes original content in PDF, written by various authors, and various texts.
 
 ## Publications
 
@@ -28,8 +30,16 @@ OR Editions édite des contenus originaux sous forme de PDF.
 * [Ode To The Whirling Player](texts/20161126.md)
 * [The Imbalance Fixer](texts/20161116.md)
 * [As It Is Supposed To Be](texts/20160810.md)
-
-
-
-
+* [Prayer To My Friend](texts/20160704.md)
+* [In The Eye Of A Child](texts/20160613.md)
+* [Seeking Substance](texts/20160418.md)
+* [What's Left](texts/2015.md)
+* [The Jewel](texts/20141231.md)
+* [Truth](texts/20141202.md)
+* [You Are](texts/201411.md)
+* [Waiting For Your Light](texts/201408.md)
+* [Come Closer](texts/201407.md)
+* [Cleansing Our Self](texts/201406.md)
+* [Water Flows](texts/201403.md)
+* [You Are Close](texts/20140206.md)
 
