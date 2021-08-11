@@ -17,6 +17,7 @@
 ## Textes en français
 
 * [Plaine](textes/plaine.md)
+* [Prière](textes/priere.md)
 
 ## English Texts
 
