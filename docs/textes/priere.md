@@ -1,3 +1,5 @@
+![Image of sea with mountains](../images/sea.jpg)
+
 # Prière du soir
 
 
@@ -82,3 +84,5 @@ Que ta grâce nous porte aux confins<br />
 De l'amour et de la piété
 
 *(1001nuits, Août 2021)*
+
+*(Photo by [AKIN HOS](https://freeimages.com/photographer/crowpilot-42484) from [FreeImages](https://freeimages.com)*
