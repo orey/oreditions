@@ -85,4 +85,4 @@ De l'amour et de la piété
 
 *1001nuits, Août 2021*
 
-<p style="font-size:2px">*(Photo by [AKIN HOS](https://freeimages.com/photographer/crowpilot-42484) from [FreeImages](https://freeimages.com))*</font></p>
+<p style="font-size:4px;>*(Photo by [AKIN HOS](https://freeimages.com/photographer/crowpilot-42484) from [FreeImages](https://freeimages.com))*</p>
