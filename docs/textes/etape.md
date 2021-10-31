@@ -65,7 +65,7 @@ Qui colle à la branche des verts devenir
 Qu'éclose la taille et le bel aujourd'hui<br />
 Qu'explose le feu dans l'arc-en-ciel d'Hermès<br />
 Le double est là qui s'arrime au beau fruit<br />
-Qui ouvre son coeur à la très sainte messe
+Qui ouvre son coeur las à la très sainte messe
 
 Les flots ont balayé des générations de névroses<br />
 De folles de mère en fille qui détruisent leurs proches<br />
