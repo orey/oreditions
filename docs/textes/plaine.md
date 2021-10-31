@@ -9,7 +9,7 @@ Tu languissais
 
 La gueule hérissée de pointes<br />
 La bave aiguë aux vagues qui grumellent<br />
-Le fog assourdissant des pelotent qu'on démêle<br />
+Le fog assourdissant des pelotes qu'on démêle<br />
 Et que la nuit harassée en un seul jour éreinte<br />
 Tu étais là
 
@@ -46,7 +46,7 @@ Balayés par les stries balayés par le flux<br />
 Laissant voir nu le sillon campagnard
 
 Il est là inerte dans la plaine<br />
-La terre noire est celles des volcans<br />
+La terre noire est celle des volcans<br />
 La lave monte seule et lentement<br />
 Filant doucement sa pelote de laine
 
