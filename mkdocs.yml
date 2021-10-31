@@ -1,6 +1,7 @@
 site_name: OR Editions
 site_description: PDF et textes originaux libres de droits
 site_author: Olivier Rey
+site_url: https://orey.github.io/oreditions
 copyright: Copyright Olivier Rey 2007-2021 - Site sous licence GNU FDL V3
 #google_analytics: ['UA-110156293-1', 'orey.github.io']
 theme:
