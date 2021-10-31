@@ -19,6 +19,7 @@ nav:
 - 'Textes en français':
     - 'Plaine': 'textes/plaine.md'
     - 'Prière du soir': 'textes/priere.md'
+    - 'Etape': 'textes/etape.md'
 - 'English Texts':
     - 'Remembering My Friend': 'texts/20190821.md'
     - 'Empty Shelf': 'texts/20190720.md'

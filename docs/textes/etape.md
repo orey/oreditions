@@ -82,8 +82,6 @@ La moiteur est là dans les lignes parallèles<br />
 Je chante le présent aux ridules irréelles<br />
 Tandis que pour l'étape je lâche un peu de lest
 
-
-
 *1001nuits, Octobre 2021*
 
 <p style="font-size:12px;font-style:italic">Photo by <a href="https://freeimages.com/photographer/maverick3x-29675">Jeff Golenski</a> from <a href="https://freeimages.com">FreeImages</a></p>

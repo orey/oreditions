@@ -18,6 +18,7 @@
 
 * [Plaine](textes/plaine.md)
 * [Prière](textes/priere.md)
+* [Etape](textes/etape.md)
 
 ## English Texts
 
